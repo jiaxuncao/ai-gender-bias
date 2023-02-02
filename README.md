@@ -29,3 +29,4 @@ gatsby develop
 # ai-gender-bias-edu
 # ai-gender-bias-edu
 # ai-gender-bias
+# ai-gender-bias-education
