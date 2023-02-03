@@ -41,3 +41,4 @@ gatsby develop
 # gender_bias_edu
 # ai-gender-bias
 # ai-gender-bias
+# ai-gender-bias-edu
