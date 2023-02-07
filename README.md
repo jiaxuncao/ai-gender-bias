@@ -1,1 +1,1 @@
-# ai-gender-bias-edu
+# ai-gender-bias
