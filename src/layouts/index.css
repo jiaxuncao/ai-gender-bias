@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,500;0,600;0,800;1,500&display=swap');
+@import url('https://fonts.animaapp.com/AXIS-ExtraBold');
+
+body {
+  font-family: 'Poppins', 'AXIS-ExtraBold', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.Hero {
+  background-color: #1554F6;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.HeroGroup {
+  margin: 0 auto;
+  max-width: 500px;
+  padding: 200px 50px;
+  text-align: center;
+}
+
+.Hero p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 20px;
+  letter-spacing: 0.7em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.Hero h1 {
+  font-family: 'AXIS';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 46px;
+  line-height: 64px;
+  color: #FFFFFF;
+  margin: 50px;
+}
+
+.Hero a {
+  font-family: 'AXIS';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 29px;
+  color: #FFFFFF;
+  padding: 10px 15px;
+  border: 1.5px solid #FFFFFF;
+  border-radius: 25px;
+  text-decoration: none;
+}
+
+.Instruction {
+  background-color: #FFFFFF;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.InstructionGroup {
+  margin: 5vh auto;
+  padding: 20px 50px;
+  align-items: center;
+  max-width: 70%;
+  height: 80vh;
+  border: 4px solid #1554F6;
+  border-radius: 50px;
+}
+
+.Instruction h1 {
+  text-align: center;
+  font-family: 'AXIS';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  color: #1554F6
+}
+
+.Instruction p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+
+  color: #000000;
+}
+
+.Instruction h2 {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 36px;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  color: #1554F6;
+}
+
+.Instruction a {
+  font-family: 'AXIS';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 29px;
+  color: #1554F6;
+  padding: 10px 15px;
+  border: 1.5px solid #1554F6;
+  border-radius: 25px;
+  text-decoration: none;
+}
