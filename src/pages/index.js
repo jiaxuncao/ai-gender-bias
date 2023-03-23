@@ -6,7 +6,7 @@ const IndexPage = () => (
     <div className='HeroGroup'>
     <p>Welcome to</p>
     <h1>AI Gender Bias<br></br>Education Program</h1>
-    <Link to="/page-2/">Instructions</Link>
+    <Link to="/0-introduction/">Instructions</Link>
     </div>
   </div>
 )

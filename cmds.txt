@@ -1,0 +1,5 @@
+nvm install 18.14.2
+nvm use 18.14.2
+
+npm install -g gatsby-cli
+gatsby develop
